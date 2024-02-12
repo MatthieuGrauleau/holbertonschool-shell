@@ -1,0 +1,1 @@
+This repository is for all my Shell's projects
