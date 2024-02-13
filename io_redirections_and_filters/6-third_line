@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A3 O ./iacta
+grep -A3 3 ./iacta
