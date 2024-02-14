@@ -1,2 +1,2 @@
 #!/bin/bash
-fonction () { BEST="School"}
+BEST=School
